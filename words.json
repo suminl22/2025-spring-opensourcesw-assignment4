@@ -1,0 +1,604 @@
+{
+  "초급": [
+    {
+      "word": "book",
+      "meaning": "책"
+    },
+    {
+      "word": "pen",
+      "meaning": "펜"
+    },
+    {
+      "word": "desk",
+      "meaning": "책상"
+    },
+    {
+      "word": "chair",
+      "meaning": "의자"
+    },
+    {
+      "word": "school",
+      "meaning": "학교"
+    },
+    {
+      "word": "student",
+      "meaning": "학생"
+    },
+    {
+      "word": "teacher",
+      "meaning": "선생님"
+    },
+    {
+      "word": "apple",
+      "meaning": "사과"
+    },
+    {
+      "word": "water",
+      "meaning": "물"
+    },
+    {
+      "word": "phone",
+      "meaning": "전화기"
+    },
+    {
+      "word": "bag",
+      "meaning": "가방"
+    },
+    {
+      "word": "door",
+      "meaning": "문"
+    },
+    {
+      "word": "window",
+      "meaning": "창문"
+    },
+    {
+      "word": "clock",
+      "meaning": "시계"
+    },
+    {
+      "word": "computer",
+      "meaning": "컴퓨터"
+    },
+    {
+      "word": "mouse",
+      "meaning": "마우스"
+    },
+    {
+      "word": "keyboard",
+      "meaning": "키보드"
+    },
+    {
+      "word": "notebook",
+      "meaning": "노트북"
+    },
+    {
+      "word": "hat",
+      "meaning": "모자"
+    },
+    {
+      "word": "shirt",
+      "meaning": "셔츠"
+    },
+    {
+      "word": "pants",
+      "meaning": "바지"
+    },
+    {
+      "word": "shoes",
+      "meaning": "신발"
+    },
+    {
+      "word": "bread",
+      "meaning": "빵"
+    },
+    {
+      "word": "milk",
+      "meaning": "우유"
+    },
+    {
+      "word": "egg",
+      "meaning": "달걀"
+    },
+    {
+      "word": "rice",
+      "meaning": "쌀"
+    },
+    {
+      "word": "soup",
+      "meaning": "수프"
+    },
+    {
+      "word": "bus",
+      "meaning": "버스"
+    },
+    {
+      "word": "train",
+      "meaning": "기차"
+    },
+    {
+      "word": "car",
+      "meaning": "자동차"
+    },
+    {
+      "word": "sun",
+      "meaning": "태양"
+    },
+    {
+      "word": "moon",
+      "meaning": "달"
+    },
+    {
+      "word": "star",
+      "meaning": "별"
+    },
+    {
+      "word": "sky",
+      "meaning": "하늘"
+    },
+    {
+      "word": "cloud",
+      "meaning": "구름"
+    },
+    {
+      "word": "rain",
+      "meaning": "비"
+    },
+    {
+      "word": "snow",
+      "meaning": "눈"
+    },
+    {
+      "word": "dog",
+      "meaning": "개"
+    },
+    {
+      "word": "cat",
+      "meaning": "고양이"
+    },
+    {
+      "word": "fish",
+      "meaning": "물고기"
+    },
+    {
+      "word": "bird",
+      "meaning": "새"
+    },
+    {
+      "word": "tree",
+      "meaning": "나무"
+    },
+    {
+      "word": "flower",
+      "meaning": "꽃"
+    },
+    {
+      "word": "river",
+      "meaning": "강"
+    },
+    {
+      "word": "mountain",
+      "meaning": "산"
+    },
+    {
+      "word": "house",
+      "meaning": "집"
+    },
+    {
+      "word": "store",
+      "meaning": "가게"
+    },
+    {
+      "word": "city",
+      "meaning": "도시"
+    },
+    {
+      "word": "street",
+      "meaning": "거리"
+    },
+    {
+      "word": "food",
+      "meaning": "음식"
+    }
+  ],
+  "중급": [
+    {
+      "word": "company",
+      "meaning": "회사"
+    },
+    {
+      "word": "manager",
+      "meaning": "관리자"
+    },
+    {
+      "word": "employee",
+      "meaning": "직원"
+    },
+    {
+      "word": "meeting",
+      "meaning": "회의"
+    },
+    {
+      "word": "project",
+      "meaning": "프로젝트"
+    },
+    {
+      "word": "deadline",
+      "meaning": "마감일"
+    },
+    {
+      "word": "report",
+      "meaning": "보고서"
+    },
+    {
+      "word": "presentation",
+      "meaning": "발표"
+    },
+    {
+      "word": "client",
+      "meaning": "고객"
+    },
+    {
+      "word": "service",
+      "meaning": "서비스"
+    },
+    {
+      "word": "product",
+      "meaning": "제품"
+    },
+    {
+      "word": "price",
+      "meaning": "가격"
+    },
+    {
+      "word": "order",
+      "meaning": "주문"
+    },
+    {
+      "word": "delivery",
+      "meaning": "배송"
+    },
+    {
+      "word": "feedback",
+      "meaning": "피드백"
+    },
+    {
+      "word": "schedule",
+      "meaning": "일정"
+    },
+    {
+      "word": "contract",
+      "meaning": "계약"
+    },
+    {
+      "word": "budget",
+      "meaning": "예산"
+    },
+    {
+      "word": "cost",
+      "meaning": "비용"
+    },
+    {
+      "word": "profit",
+      "meaning": "수익"
+    },
+    {
+      "word": "loss",
+      "meaning": "손실"
+    },
+    {
+      "word": "strategy",
+      "meaning": "전략"
+    },
+    {
+      "word": "goal",
+      "meaning": "목표"
+    },
+    {
+      "word": "plan",
+      "meaning": "계획"
+    },
+    {
+      "word": "market",
+      "meaning": "시장"
+    },
+    {
+      "word": "promotion",
+      "meaning": "홍보"
+    },
+    {
+      "word": "advertisement",
+      "meaning": "광고"
+    },
+    {
+      "word": "department",
+      "meaning": "부서"
+    },
+    {
+      "word": "team",
+      "meaning": "팀"
+    },
+    {
+      "word": "supervisor",
+      "meaning": "감독자"
+    },
+    {
+      "word": "training",
+      "meaning": "훈련"
+    },
+    {
+      "word": "skill",
+      "meaning": "기술"
+    },
+    {
+      "word": "experience",
+      "meaning": "경험"
+    },
+    {
+      "word": "interview",
+      "meaning": "면접"
+    },
+    {
+      "word": "application",
+      "meaning": "지원"
+    },
+    {
+      "word": "resignation",
+      "meaning": "사직"
+    },
+    {
+      "word": "vacation",
+      "meaning": "휴가"
+    },
+    {
+      "word": "attendance",
+      "meaning": "출석"
+    },
+    {
+      "word": "invoice",
+      "meaning": "송장"
+    },
+    {
+      "word": "payment",
+      "meaning": "지불"
+    },
+    {
+      "word": "account",
+      "meaning": "계정"
+    },
+    {
+      "word": "conference",
+      "meaning": "회의"
+    },
+    {
+      "word": "seminar",
+      "meaning": "세미나"
+    },
+    {
+      "word": "network",
+      "meaning": "네트워크"
+    },
+    {
+      "word": "information",
+      "meaning": "정보"
+    },
+    {
+      "word": "technology",
+      "meaning": "기술"
+    },
+    {
+      "word": "document",
+      "meaning": "문서"
+    },
+    {
+      "word": "data",
+      "meaning": "데이터"
+    },
+    {
+      "word": "system",
+      "meaning": "시스템"
+    }
+  ],
+  "고급": [
+    {
+      "word": "implement",
+      "meaning": "시행하다"
+    },
+    {
+      "word": "allocate",
+      "meaning": "할당하다"
+    },
+    {
+      "word": "evaluate",
+      "meaning": "평가하다"
+    },
+    {
+      "word": "authorize",
+      "meaning": "승인하다"
+    },
+    {
+      "word": "collaborate",
+      "meaning": "협력하다"
+    },
+    {
+      "word": "compensate",
+      "meaning": "보상하다"
+    },
+    {
+      "word": "contribute",
+      "meaning": "기여하다"
+    },
+    {
+      "word": "coordinate",
+      "meaning": "조정하다"
+    },
+    {
+      "word": "delegate",
+      "meaning": "위임하다"
+    },
+    {
+      "word": "enhance",
+      "meaning": "향상시키다"
+    },
+    {
+      "word": "establish",
+      "meaning": "설립하다"
+    },
+    {
+      "word": "facilitate",
+      "meaning": "촉진하다"
+    },
+    {
+      "word": "generate",
+      "meaning": "생산하다"
+    },
+    {
+      "word": "highlight",
+      "meaning": "강조하다"
+    },
+    {
+      "word": "implement",
+      "meaning": "시행하다"
+    },
+    {
+      "word": "influence",
+      "meaning": "영향을 주다"
+    },
+    {
+      "word": "launch",
+      "meaning": "출시하다"
+    },
+    {
+      "word": "maintain",
+      "meaning": "유지하다"
+    },
+    {
+      "word": "negotiate",
+      "meaning": "협상하다"
+    },
+    {
+      "word": "observe",
+      "meaning": "관찰하다"
+    },
+    {
+      "word": "oversee",
+      "meaning": "감독하다"
+    },
+    {
+      "word": "participate",
+      "meaning": "참여하다"
+    },
+    {
+      "word": "postpone",
+      "meaning": "연기하다"
+    },
+    {
+      "word": "predict",
+      "meaning": "예측하다"
+    },
+    {
+      "word": "prioritize",
+      "meaning": "우선순위를 매기다"
+    },
+    {
+      "word": "proceed",
+      "meaning": "진행하다"
+    },
+    {
+      "word": "reimburse",
+      "meaning": "변제하다"
+    },
+    {
+      "word": "renovate",
+      "meaning": "보수하다"
+    },
+    {
+      "word": "reschedule",
+      "meaning": "일정을 변경하다"
+    },
+    {
+      "word": "streamline",
+      "meaning": "간소화하다"
+    },
+    {
+      "word": "substitute",
+      "meaning": "대신하다"
+    },
+    {
+      "word": "terminate",
+      "meaning": "종료하다"
+    },
+    {
+      "word": "undertake",
+      "meaning": "착수하다"
+    },
+    {
+      "word": "verify",
+      "meaning": "확인하다"
+    },
+    {
+      "word": "acquisition",
+      "meaning": "인수"
+    },
+    {
+      "word": "affiliation",
+      "meaning": "소속"
+    },
+    {
+      "word": "appraisal",
+      "meaning": "평가"
+    },
+    {
+      "word": "attendee",
+      "meaning": "참석자"
+    },
+    {
+      "word": "compliance",
+      "meaning": "준수"
+    },
+    {
+      "word": "discrepancy",
+      "meaning": "불일치"
+    },
+    {
+      "word": "expenditure",
+      "meaning": "지출"
+    },
+    {
+      "word": "initiative",
+      "meaning": "계획, 진취성"
+    },
+    {
+      "word": "logistics",
+      "meaning": "물류"
+    },
+    {
+      "word": "prospect",
+      "meaning": "전망"
+    },
+    {
+      "word": "quota",
+      "meaning": "할당량"
+    },
+    {
+      "word": "recession",
+      "meaning": "불황"
+    },
+    {
+      "word": "subsidiary",
+      "meaning": "자회사"
+    },
+    {
+      "word": "surplus",
+      "meaning": "잉여, 흑자"
+    },
+    {
+      "word": "turnover",
+      "meaning": "매출"
+    },
+    {
+      "word": "violation",
+      "meaning": "위반"
+    }
+  ]
+}
