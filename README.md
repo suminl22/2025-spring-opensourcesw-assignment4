@@ -53,7 +53,14 @@ python main.py
 
 ## 💡 프로그램 출력 화면
 
-이미지 파일 넣기
+<img src="asset/intro.png" alt="intro">
+<br>
+<img src="asset/start.png" alt="start">
+<br>
+<img src="asset/play.png" alt="play">
+<br>
+<img src="asset/result.png" alt="result">
+<br>
 
 ---
 
@@ -61,7 +68,8 @@ python main.py
 
 틀릴 경우 자동으로 `wrong_answers.txt` 파일에 저장됩니다.
 
-이미지 파일 넣기
+<img src="asset/wrong-answers.png" alt="wrong-answers">
+<br>
 
 ---
 
